@@ -1,6 +1,6 @@
 # CompareRNG
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=BJTor/CompareRNG&file=CompareRNG.mlapp)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/CompareRNG&file=CompareRNG.mlapp)
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/CompareRNG)
 
 A simple app to compare performance of the MATLAB<sup>&reg;</sup> random number generators on your machine.
